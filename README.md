@@ -1,4 +1,5 @@
------------------------------------------------------ ENGLISH ------------------------------------------------------------------------------------------------
+----------------------------------------------------- ENGLISH ----------------------------------------------------------------------------------------------
+
 My Business Intelligence Portfolio 📊🔬
 Welcome to my Business Intelligence Portfolio repository, where I share my experiences and projects related to data analysis and strategic decision-making. 🚀
 
